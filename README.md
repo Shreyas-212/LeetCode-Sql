@@ -11,11 +11,3 @@ This repository contains my SQL solutions for various LeetCode problems. It incl
 - 🎯 Useful for interview preparation and sharpening SQL skills.  
 
 Feel free to explore, contribute, or share feedback! 🚀 
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1873-calculate-special-bonus](https://github.com/Shreyas-212/LeetCode-Sql/tree/main/1873-calculate-special-bonus/) | Easy |
-<!---LeetCode Topics End-->
